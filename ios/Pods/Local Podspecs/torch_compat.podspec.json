@@ -1,0 +1,26 @@
+{
+  "name": "torch_compat",
+  "version": "0.0.1",
+  "summary": "Plugin to turn on&amp;#x2F;off the flash (supports Android 4.x)",
+  "description": "Plugin to turn on&amp;#x2F;off the flash (supports Android 4.x)",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,6 @@
+framework module torch_compat {
+  umbrella header "torch_compat-umbrella.h"
+
+  export *
+  module * { export * }
+}
