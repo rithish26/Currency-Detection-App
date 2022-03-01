@@ -1,0 +1,7 @@
+10 rupees-samples
+100 rupees-samples
+20 rupees-samples
+200 rupees-samples
+2000 rupees-samples
+50 rupees-samples
+500 rupees-samples
